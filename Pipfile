@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+ipykernel = "*"
+mido = "*"
+python-rtmidi = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+scikit-image = "*"
+scikit-learn = "*"
+ipython = "*"
+pandas = "*"
+opencv-python = "*"
+
+[requires]
+python_version = "3.7"
